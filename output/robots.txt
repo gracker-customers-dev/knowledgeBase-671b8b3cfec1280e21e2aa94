@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: www.gracke.ai/sitemap.xml
